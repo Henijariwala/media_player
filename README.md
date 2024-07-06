@@ -1,16 +1,5 @@
-# media_player
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src= "https://github.com/Henijariwala/media_player/assets/160698403/97f040fb-1cb1-4072-b42f-b24f52589469" width="240">
+<img src= "https://github.com/Henijariwala/media_player/assets/160698403/56560700-3b58-4d8f-a7f4-983f9c3c4b06" width="240">
+<img src= "https://github.com/Henijariwala/media_player/assets/160698403/64a6b633-723a-4d97-adc4-f9c8bb87d5c4" width="240">
+<img src= "https://github.com/Henijariwala/media_player/assets/160698403/a137ba1f-971f-4ba9-ac4a-51a80df29c05" width="240">
+<img src= "https://github.com/Henijariwala/media_player/assets/160698403/842a801f-82ec-43d8-8de9-3b65b0faca85" width="240">
