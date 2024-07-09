@@ -28,20 +28,6 @@ class VideoProvider
     )
   ];
 
-  // VideoPlayerController? videoPlayerController;
-  // ChewieController? controller;
-  // int index = 0;
-
-  // void intiVideo() {
-  //   videoPlayerController = VideoPlayerController.networkUrl(Uri.parse(videoList[videoIndex].video));
-  //   videoPlayerController!.initialize();
-  //   notifyListeners();
-  // }
-  // void changIndex(int i) {
-  //   index = i;
-  //   notifyListeners();
-  // }
-  VideoPlayerController? videoPlayerController;
   ChewieController? chewieController;
   int videoIndex = 0;
 
